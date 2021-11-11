@@ -1,8 +1,9 @@
 # Valculator
-Вот так да.
+
 * Полезно!
 * Красиво!
 * Технологично!
+Вот так да!
 
 ## С уважением
-### Проект опубликован по адресу https://maximmuravyev.github.io/Valculator/
+Команда проекта Valculator
